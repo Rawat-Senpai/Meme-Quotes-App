@@ -1,4 +1,4 @@
-# Meme-Quotes-App
+# Anime-Quotes-App
 - This app is for weeb who are looking for qutoes of anime 
 This app fetch quotes of different anime from api
 
